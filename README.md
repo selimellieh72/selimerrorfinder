@@ -1,2 +1,2 @@
 # selimerrorfinder
-A python script that fixes python scripts :d
+A python script that fixes python scripts :D
