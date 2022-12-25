@@ -8,14 +8,14 @@
 
 
 <p align="center">
-  <a href="#about"About</a> •
+  <a href="#about">About</a>
   <a href="#how-to-use">How To Use</a> •
   <a href="#credits">Credits</a> •
   <a href="#you-may-also-like">You May Also like</a>
 
 </p>
 
-![screenshot](https://github.com/selimellieh72/my-plans/blob/master/myplans.gif)
+
 
 ## About
 This script was created for the final project of the CSC 243 ~ Introduction to Object Oriented Programming Course at LAU. The purpose of this script is to find and correct syntax errors in other python scripts.
