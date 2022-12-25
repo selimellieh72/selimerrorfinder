@@ -14,7 +14,7 @@
   <a href="#you-may-also-like">You May Also like</a>
 
 </p>
-
+![screenshot](https://github.com/selimellieh72/selimserrorfinder/blob/main/selims_error_finder.gif)
 
 
 ## About
@@ -55,6 +55,7 @@ $ python3 main.py
 
 ## Credits
 - [Python](https://www.python.org/)
+- [TermColor](https://pypi.org/project/termcolor/) ~ A Python library that allows to print in colors
 
 
 ---
