@@ -14,7 +14,7 @@
   <a href="#you-may-also-like">You May Also like</a>
 
 </p>
-![screenshot](https://github.com/selimellieh72/selimserrorfinder/blob/main/selims_error_finder.gif)
+![screenshot](https://github.com/selimellieh72/my-plans/blob/master/myplans.gif)
 
 
 ## About
