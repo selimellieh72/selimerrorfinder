@@ -14,7 +14,7 @@
   <a href="#you-may-also-like">You May Also like</a>
 
 </p>
-![](selims_error_finder.gif)
+
 
 
 ## About
