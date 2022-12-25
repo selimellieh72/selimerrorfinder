@@ -16,6 +16,7 @@
 </p>
 
 
+![Alt Text](https://github.com/selimellieh72/selimserrorfinder/blob/main/selims_error_finder.gif)
 
 ## About
 This script was created for the final project of the CSC 243 ~ Introduction to Object Oriented Programming Course at LAU. The purpose of this script is to find and correct syntax errors in other python scripts.
