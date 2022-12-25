@@ -38,7 +38,7 @@ $ git clone https://github.com/selimellieh72/selimserrorfinder
 $ cd selimserrorfinder
 
 # Install dependencies
-$ pip3 install cterminal
+$ pip3 install termcolor
 
 # Run the app
 $ python3 main.py
