@@ -3,7 +3,7 @@
   SelimsErrorFinder
 </h1>
 
-<h4 align="center">A Python scripts that finds and fixes syntax errors in other Python scripts :D</h4>
+<h4 align="center">A Python script that finds and fixes syntax errors in other Python scripts :D</h4>
 
 
 
